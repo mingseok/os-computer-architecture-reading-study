@@ -18,9 +18,9 @@
 ## ✏️참가 인원
 
 
-| 김민석 | 이다원 | xxx | xxx
+| 김민석 | 이다원 | 김나현| xxx
 | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브]() | [깃허브]() |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브](https://github.com/NahyunEE/CS.git) | [깃허브]() |
 
 
 
