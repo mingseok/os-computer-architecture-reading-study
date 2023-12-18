@@ -7,20 +7,20 @@
 
 ## 🚀기간
 
-- 일정 : 2023.x.x ~ ing
+- 일정 : 2023.12.11 ~ ing
 
-- 매주 x요일 x시에 x로 진행합니다.
+- 매주 월요일 9시에 구글밋으로 진행합니다.
 
-    - x 링크 : x
+    - 링크 : https://meet.google.com/ugm-efoq-stu
 
 <br/>
 
 ## ✏️참가 인원
 
 
-| 김민석 | 이다원 | xxx | xxx
+| 김민석 | 이다원 | 곽수경 | 김나현
 | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브]() | [깃허브]() |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브](https://github.com/Sukyeong-Kwak) | [깃허브](https://github.com/NahyunEE) |
 
 
 
@@ -98,7 +98,7 @@
 
 많은 이용 부탁드립니다!
 
-[📌링크](https://github.com/mingseok/spring_reading_study/issues)
+[📌링크](https://github.com/mingseok/os-computer-architecture-reading-study/issues)
 
 
 
