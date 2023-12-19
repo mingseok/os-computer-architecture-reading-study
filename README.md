@@ -96,9 +96,13 @@
 핵심은, 스터디 사이클에서 질문 & 답변을 한다는 것입니다.
 
 
-많은 이용 부탁드립니다!
+<br/>
 
-[📌링크](https://github.com/mingseok/os-computer-architecture-reading-study/issues)
+### 이렇게 진행하는 이유는,
+저희가 스터디를 진행함에 있어서 "하나라도 기록으로 남겨두면 좋지 않을까?" 라는
+
+생각에 이렇게 진행하게 되었습니다. 많은 이용 부탁드립니다! [📌링크](https://github.com/mingseok/os-computer-architecture-reading-study/issues)
+
 
 
 
