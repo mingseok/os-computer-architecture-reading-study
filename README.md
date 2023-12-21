@@ -9,18 +9,19 @@
 
 - 일정 : 2023.12.11 ~ ing
 
-- 매주 월요일 9시에 구글밋으로 진행합니다.
+- 매주 수요일 9시에 구글밋으로 진행합니다.
 
-    - 링크 : https://meet.google.com/ugm-efoq-stu
+    - 링크 : https://zep.us/play/DwY3Je
 
 <br/>
 
 ## ✏️참가 인원
 
 
-| 김민석 | 이다원 | 곽수경 | 김나현
-| --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브](https://github.com/Sukyeong-Kwak) | [깃허브](https://github.com/NahyunEE) |
+| 김민석 | 이다원 | 곽수경 | 김나현 | 김소정 |
+| --- | --- | --- | --- | --- |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브](https://github.com/Sukyeong-Kwak) | [깃허브](https://github.com/NahyunEE) | [깃허브](https://github.com/zeze1004) |
+
 
 
 
