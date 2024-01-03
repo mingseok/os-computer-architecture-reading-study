@@ -9,18 +9,19 @@
 
 - 일정 : 2023.12.11 ~ ing
 
-- 매주 월요일 9시에 구글밋으로 진행합니다.
+- 매주 수요일 9시에 구글밋으로 진행합니다.
 
-    - 링크 : https://meet.google.com/ugm-efoq-stu
+    - 링크 : https://zep.us/play/DwY3Je
 
 <br/>
 
 ## ✏️참가 인원
 
 
-| 김민석 | 이다원 | 곽수경 | 김나현
-| --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브](https://github.com/Sukyeong-Kwak) | [깃허브](https://github.com/NahyunEE) |
+| 김민석 | 이다원 | 곽수경 | 김나현 | 김소정 |
+| --- | --- | --- | --- | --- |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/dawonss) | [깃허브](https://github.com/Sukyeong-Kwak) | [깃허브](https://github.com/NahyunEE) | [깃허브](https://github.com/zeze1004) |
+
 
 
 
@@ -96,9 +97,13 @@
 핵심은, 스터디 사이클에서 질문 & 답변을 한다는 것입니다.
 
 
-많은 이용 부탁드립니다!
+<br/>
 
-[📌링크](https://github.com/mingseok/os-computer-architecture-reading-study/issues)
+### 이렇게 진행하는 이유는,
+저희가 스터디를 진행함에 있어서 "하나라도 기록으로 남겨두면 좋지 않을까?" 라는
+
+생각에 이렇게 진행하게 되었습니다. 많은 이용 부탁드립니다! [📌링크](https://github.com/mingseok/os-computer-architecture-reading-study/issues)
+
 
 
 
